@@ -1,0 +1,8 @@
+﻿CustomerID,FirstName,LastName,PhoneNumber,Birthdate,DriverLicense,Status
+EV,Edward,Vongsaph,905-555-8932,1990-01-01,537597397,Active
+FE,Fiona,Espoito,905-345-3920,1995-03-28,232323290,Active
+GS,Graeme,Sands,416-849-5391,1973-11-30,49283098,Amount Owing
+MA,Margeret,Armstrong,905-745-7342,1968-06-19,987654336,Suspended
+MM,Michael,McGuinty,905-648-3246,1984-03-30,345678998,Active
+PC,Phil,Charest,416-371-3979,1980-12-10,604604047,Suspended
+PD,Paula,Dorang,416-635-5555,1979-10-12,,

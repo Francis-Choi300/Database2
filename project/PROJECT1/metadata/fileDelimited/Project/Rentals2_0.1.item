@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_rvlocHDzEfCRbOja9EUBAw" name="Rentals2" id="_rvlBYHDzEfCRbOja9EUBAw" dataPackage="_rvlocXDzEfCRbOja9EUBAw" Server="Localhost 127.0.0.1" FilePath="C:/Users/User/Desktop/Databases 2/project/Rentals.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_rvlocXDzEfCRbOja9EUBAw" name="default" dataManager="_rvlocHDzEfCRbOja9EUBAw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_rvmPgHDzEfCRbOja9EUBAw" id="_oc6WwHDzEfCRbOja9EUBAw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rvmPgXDzEfCRbOja9EUBAw" label="RentalID" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rvmPgnDzEfCRbOja9EUBAw" label="RentalDate" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rvmPg3DzEfCRbOja9EUBAw" label="CustomerID" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rvmPhHDzEfCRbOja9EUBAw" label="TapeID" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
